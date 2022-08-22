@@ -1,0 +1,7 @@
+node_modules/
+utils/
+archive/*
+downloads
+src/s3DownloadCode.js
+dist/
+libs
